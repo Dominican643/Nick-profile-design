@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- Obviously I am the owner of <b> my life. </b> 
+- Obviously I am the owner of <b> my fucking life. </b> 
 
 - I am currently learning how to add more knowledge to the ones i know.
 
