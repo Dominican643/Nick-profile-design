@@ -7,12 +7,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey"></b> , I am Nick</h1>
-<h3 align="center">Just a chill guy still learning how to add more knowledge to the one he knows.</h3>
+<h3 align="center">Just a chill guy.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- Obviously I’m the owner of <b> my life. </b> 
+- Obviously I am the owner of <b> my life. </b> 
 
 - I am currently learning how to add more knowledge to the ones i know.
 
@@ -27,7 +27,7 @@
 
 This is my life motto:
 
-Respice Finem. 
+Respice Finem.  
 
 
 ## Other ways to contact me
