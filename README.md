@@ -1,28 +1,28 @@
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=SAVINDU+DESHAN&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Nick&font=Fira%20Code&center=true&width=380&height=50">
 
 </p>
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey"></b> , I'm SAVINDU DESHAN</h1>
-<h3 align="center">Professional Penetration Tester, Carder, Hacker in Sri Lanka</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey"></b> , Hello there, I am Nick</h1>
+<h3 align="center">Just a chill guy still learning how to add more knowledge to the one he knows.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m Owner for <b> My Life Style </b> 
+- Obviously I’m the owner of <b> my life. </b> 
 
-- 🌱 I’m currently learning **All Subjects in world**
+- I am currently learning how to add more knowledge to the ones i know.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- I am looking for open minded tutors.
 
-- 👨‍💻 All of my projects are available at **[My profile](https://github.com/SAVINDU-DESHAN)**
+-  Few of my projects are available at **[My profile](https://github.com/Dominican643)**
 
-- 📫 How to reach me **Savindu.dev.lk@gmail.com**
+- 📫 How to reach me **devilhimself31@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- Fun fact **I hate explaining my self too much.**
 
 
 This is my life motto:
@@ -36,10 +36,10 @@ while($life->isOpenSource()) {
 ```
 
 
-## 💰 Support Me
-<a href="https://t.me/SAVINDU_DESHAN" target="_blank"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
+## Other ways to contact me
+<a href="https://t.me/@D0M1_N1CK" target="_blank"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
 
-## 🚀 Languages and Tools:
+## Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -70,13 +70,13 @@ while($life->isOpenSource()) {
     </a>
 </p>
 
-## 📊 My Github Stats
+## My Github Stats
 
   <br/>
     <a href="https://github.com/SAVINDU-DESHAN/-github-readme-stats/tree/main"><img alt="SAVINDU-DESHAN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SAVINDU-DESHAN&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SAVINDU-DESHAN/-github-readme-stats/tree/main"><img alt="SAVINDU-DESHAN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAVINDU-DESHAN&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages is only a metric of the languages, My public code doesn't reflect experience or skill level.
 
 
 <br/>
