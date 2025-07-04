@@ -1,12 +1,12 @@
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Nick&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=NICK'S PROFILE &font=Fira%20Code&center=true&width=380&height=50">
 
 </p>
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey"></b> , Hello there, I am Nick</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey"></b> , I am Nick</h1>
 <h3 align="center">Just a chill guy still learning how to add more knowledge to the one he knows.</h3>
 
 
@@ -27,13 +27,7 @@
 
 This is my life motto:
 
-```php
-// Enquanto a vida for Open Source...
-while($life->isOpenSource()) {
-    // diz que ama codar e ama alguém inteligente
-    echo 'I love to code. I love you, ' . $name . '! ';
-}
-```
+Respice Finem. 
 
 
 ## Other ways to contact me
